@@ -1,6 +1,8 @@
 # Project H: Home Network & Security Build
 
-A segmented, local-first home network for a single-family bungalow. The household gets Wi-Fi/Internet that just works, while IoT devices, cameras and guests are isolated from personal devices and video never leaves the house.
+A personal project, built for fun, to challenge myself, and because I can.
+
+A segmented, local-first home network for a single-family bungalow. The household gets Wi-Fi/Internet that just works, while IoT devices, cameras and guests are isolated from personal devices and video never leaves the house. 
 
 ## Design goals
 
