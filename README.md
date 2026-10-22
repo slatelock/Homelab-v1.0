@@ -1,4 +1,4 @@
-# Project H: Homelab based on efficient Networking & Security
+# Project H: Homelab Networking & Security
 
 A personal project, built for fun, to challenge myself, and because I can.
 
